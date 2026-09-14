@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    {
+      "name": "bebok-index",
+      "repo": "henrykbrzoska/bebok-index",
+      "url": "https://github.com/henrykbrzoska/bebok-index",
+      "description": "Per-instance code index for Bebok: file scan, tantivy full-text search, background orchestrator and filesystem watcher."
+    }
+  ]
+}
