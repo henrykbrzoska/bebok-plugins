@@ -1,10 +1,13 @@
 {
   "plugins": [
     {
+      "asset_sha256": "13b965661cc85b89237457edc9c0ab74277b2183460cc471d3fe1b1ca2c420ce",
+      "asset_url": "https://github.com/henrykbrzoska/bebok-index/releases/download/v1.6.0/bebok-index-1.6.0.zip",
+      "description": "Per-instance code index for Bebok: file scan, tantivy full-text search, background orchestrator and filesystem watcher.",
       "name": "bebok-index",
       "repo": "henrykbrzoska/bebok-index",
       "url": "https://github.com/henrykbrzoska/bebok-index",
-      "description": "Per-instance code index for Bebok: file scan, tantivy full-text search, background orchestrator and filesystem watcher."
+      "version": "1.6.0"
     }
   ]
 }
